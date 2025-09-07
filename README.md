@@ -1,4 +1,4 @@
-# Data Structures & Algorithms Prep for ML/AI Engineers
+# Data Structures & Algorithms Prep for AI/ML Engineers
 
 This repository is a structured collection of **Data Structures and Algorithms (DSA)** problems, organized by **problem-solving patterns**. It is designed to help **ML Engineers, AI Engineers, and MLEs** build strong problem-solving skills for coding interviews.  
 
